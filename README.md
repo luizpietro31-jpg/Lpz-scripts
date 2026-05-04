@@ -1,2 +1,1 @@
-# Lpz-scripts
-Script
+ZLscripts
